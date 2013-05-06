@@ -1,1 +1,6 @@
 Simple Integer Language Compiler development
+This repository contains sample programs.
+These programs along with the documentation will aid you in the process of developing a compiler for  
+SIL (Simple Integer Language).
+For SIL description check out the following link :
+http://athena.nitc.ac.in/~kmurali/Compiler/sil.html
