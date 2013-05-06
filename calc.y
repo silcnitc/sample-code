@@ -1,5 +1,5 @@
 %{
-	/* Calculator (using expression syntax tree) by Nachi */
+	/* Yacc program for calculator (using expression syntax tree)  */
 
 /*Node type constants*/
 #define EXPR 11
