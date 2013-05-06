@@ -1,5 +1,5 @@
 %{
-/*LEXER FOR SIL BY NACHIAPPAN.V */	
+/*LEX program for calculator using Expression Syntax Tree */	
 
 	#include "y.tab.h"
 	#include<stdlib.h>
